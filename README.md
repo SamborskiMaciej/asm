@@ -7,6 +7,11 @@
 
 ## Compiling
 
+``` bash
+./build.sh <name>
 ```
-$ ./build.sh <name>
-```
+
+## Note
+
+Most of the programs don't print anything
+Use of gdb highly recomended
